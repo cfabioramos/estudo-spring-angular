@@ -1,4 +1,4 @@
-package com.algaworks.comercial.com.algaworks.comercial;
+package com.algaworks.comercial;
 
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.oauth2.config.annotation.web.configuration.EnableAuthorizationServer;

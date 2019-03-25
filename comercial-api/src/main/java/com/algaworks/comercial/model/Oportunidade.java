@@ -1,4 +1,4 @@
-package com.algaworks.comercial.com.algaworks.comercial.model;
+package com.algaworks.comercial.model;
 
 import javax.persistence.*;
 import javax.validation.constraints.Min;
